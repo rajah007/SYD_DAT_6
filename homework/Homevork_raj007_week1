@@ -1,0 +1,28 @@
+Setup
+	Resolve any installation issues before next class. (done)
+	Make sure you have a github profile and created a repo called "SYD_DAT_6" (done)
+	Clone the class repo (this one!) (done)
+	Review this code for a recap of some Python basics. (done)
+
+Communication
+	Read Analyzing the Analyzers for a useful look at the different types of data scientists. Write down 5 key points you took away from the article
+	(1) There are 4 Self-ID Groups were identified in the DS space. They are Data Businessperson, Data Creative, Data Developer and Data Researcher.
+
+	(2) Theire are 5 skill groups in the DS based on the interview conducted. They are Business, ML/Big Data, Math/OR, Programming and Statistics.
+
+	(3) One of the reasons why “data science” and other buzzwords have come about recently is the advent of new technologies and tech‐
+	   niques for inexpensively working with very large data sets.  
+	   Read about some Markdown Techniques
+
+	(4) Data science is an inher‐ ently collaborative and creative field, where the successful professional can work with database administrators, 
+	   business people, and others with overlapping skill sets to get data projects completed in innovative ways.
+
+	(5)Tools are critical to data scientists’ effectiveness. The maturity of current tools allows an individual to at least roughly perform all of the
+	steps needed to develop insights and build data products. However, the evidence points in favor of a scientific versus a tools-based
+	education for data scientists. Along with technical expertise, the sci‐ entific mentoring process builds and rewards curiosity, storytelling,
+	and cleverness.
+
+	Read about some Markdown Techniques (Done)
+
+	Write a summary of 2 chapters of The Data Science Handbook in Markdown and submit a pull request in the Lab Directory	
+
